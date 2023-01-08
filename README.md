@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Mango's github stats](https://github-readme-stats.vercel.app/api?username=mango-lzp)](https://github.com/mango-lzp/github-readme-stats)
+[![Mango's github stats](https://github-readme-stats.vercel.app/api?username=集智书童)](https://github.com/mango-lzp/github-readme-stats)
 
 <!--
 **jizhishutong/jizhishutong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
